@@ -1,2 +1,5 @@
 # registration-form
- Registration form for a website.
+ I've created a registration form for a website.  
+ Technologies used: 
+ 1. HTML
+ 2. CSS
